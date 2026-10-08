@@ -113,11 +113,6 @@ For the same reason `qr.py` decodes every frame rather than a shortlist. The
 pre-filter that would speed it up ranked a high-contrast title card above the
 frames that actually held QR codes.
 
-## Example output
-
-`claude-code-video-report.md` is a real run against a 22-minute video — the
-format it produces, with every finding timestamped so it can be checked.
-
 ## Notes
 
 - Everything runs locally. The only network calls are fetching the video and

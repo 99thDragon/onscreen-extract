@@ -4,3 +4,6 @@ work/
 runs/
 __pycache__/
 *.pyc
+
+# Extraction reports - keep these local
+*-video-report.md
