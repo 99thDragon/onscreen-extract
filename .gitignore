@@ -1,0 +1,6 @@
+# Per-video working directories: downloaded video, frames, sheets, zooms.
+# All regenerable, and the frames are stills from someone else's video.
+work/
+runs/
+__pycache__/
+*.pyc
